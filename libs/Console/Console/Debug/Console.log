@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  com_mrhan_console_Console.c
+e:\project\idea\dbd\libs\console\console\com_mrhan_console_console.c(1): fatal error C1853: “Debug\Console.pch”预编译头文件来自编译器的早期版本，或者预编译头为 C++ 而在 C 中使用它(或相反)

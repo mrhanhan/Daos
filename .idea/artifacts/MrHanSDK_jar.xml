@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MrHanSDK:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MrHanSDK_jar</output-path>
+    <root id="archive" name="DBD.jar">
+      <element id="module-output" name="MrHanSDK" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DBD">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/DBD_jar/DBD.jar!/" />
+      <root url="jar://E:/帮初学习/软件/mysql/mysql-connector-java-5.1.18-bin.jar!/" />
+      <root url="jar://E:/帮初学习/S2/JavaWeb/180614/2-韩浩/StudentMS/WebRoot/WEB-INF/lib/sqljdbc4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
